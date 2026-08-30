@@ -1,0 +1,6 @@
+{
+  "name": "Modern Web Page",
+  "description": "A clean, responsive web page with editorial typography, balanced layout, and interactive components.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
